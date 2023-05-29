@@ -1,5 +1,5 @@
 {% set name = "esparto" %}
-{% set version = "4.1.0" %}
+{% set version = "4.3.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/esparto-{{ version }}.tar.gz
-  sha256: 1bcb6e8acbd9b8151615eba79ad3acfb5cf2954379ab0f754d64e7c252da81b9
+  sha256: ee5fff73319c75fb0ecaac2e2af14a137b93ab1a1d9d9613b8615e339b63f038
 
 build:
   number: 0

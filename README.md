@@ -1,11 +1,11 @@
-About esparto
-=============
+About esparto-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/esparto-feedstock/blob/main/LICENSE.txt)
 
 Home: https://domvwt.github.io/esparto
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/esparto-feedstock/blob/main/LICENSE.txt)
 
 Summary: Data driven report builder for the PyData ecosystem.
 
